@@ -79,7 +79,7 @@ try {
                 <div className="login-logo">  
                  <center><img src={image} width={'40%'} alt="Logo" />  </center> 
                 </div>  
-                <center>CLINIC LOGBOOK </center>&nbsp;
+                <center>Pharmacy Online</center>&nbsp;
                   
                 <div className="card">  
                   <div className="card-body login-card-body"> 
